@@ -1,11 +1,11 @@
 project:
   name: factorio-server-charts
   shortName: factorio-server-charts
-  url: https://github.com/SQLJames/factorio-server-charts
+  url: https://github.com/peg42/factorio-server-charts
   description: A Helm chart for running factorio in kubernetes
   app: Factorio
 repository:
-  url: https://github.com/SQLJames/factorio-server-charts
+  url: https://github.com/peg42/factorio-server-charts
   name: github
 chart:
   name: factorio-server-charts
